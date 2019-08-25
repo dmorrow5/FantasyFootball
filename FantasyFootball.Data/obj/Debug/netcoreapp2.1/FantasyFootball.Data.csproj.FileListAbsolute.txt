@@ -1,0 +1,11 @@
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\bin\Debug\netcoreapp2.1\FantasyFootball.Data.deps.json
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\bin\Debug\netcoreapp2.1\FantasyFootball.Data.dll
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\bin\Debug\netcoreapp2.1\FantasyFootball.Data.pdb
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.AssemblyInfoInputs.cache
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.AssemblyInfo.cs
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.dll
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.pdb
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\obj\Debug\netcoreapp2.1\FantasyFootball.Data.csprojAssemblyReference.cache
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\bin\Debug\netcoreapp2.1\FantasyFootball.Data.runtimeconfig.json
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Data\bin\Debug\netcoreapp2.1\FantasyFootball.Data.runtimeconfig.dev.json

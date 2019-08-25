@@ -1,0 +1,6 @@
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\bin\Debug\FantasyFootball.Database.dacpac
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\bin\Debug\FantasyFootball.Database.dll
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\bin\Debug\FantasyFootball.Database.pdb
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\obj\Debug\FantasyFootball.Database.sqlprojAssemblyReference.cache
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\obj\Debug\FantasyFootball.Database.dll
+C:\Users\Drew\source\repos\FantasyFootball\FantasyFootball.Database\obj\Debug\FantasyFootball.Database.pdb
