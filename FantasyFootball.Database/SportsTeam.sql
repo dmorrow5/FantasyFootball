@@ -1,9 +1,8 @@
 ﻿CREATE TABLE [dbo].[SportsTeam]
 (
-	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
-    [Name] NCHAR(10) NULL, 
-    [Points] INT NULL, 
-	[Wins] INT NULL, 
-    [Losses] INT NULL, 
-    [Ties] INT NULL
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(), 
+    [Name] NCHAR(10) NOT NULL, 
+	[Wins] INT NOT NULL DEFAULT 0, 
+    [Losses] INT NOT NULL DEFAULT 0, 
+    [Ties] INT NOT NULL DEFAULT 0
 )

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace FantasyFootball.Data.Models
 {
-    public partial class SportsTeam
+    public partial class LeagueTeam
     {
-        public SportsTeam()
+        public LeagueTeam()
         {
             BasePlayer = new HashSet<BasePlayer>();
             Player = new HashSet<Player>();
@@ -13,9 +13,6 @@ namespace FantasyFootball.Data.Models
 
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public int Wins { get; set; }
-        public int Losses { get; set; }
-        public int Ties { get; set; }
 
         public virtual ICollection<BasePlayer> BasePlayer { get; set; }
         public virtual ICollection<Player> Player { get; set; }

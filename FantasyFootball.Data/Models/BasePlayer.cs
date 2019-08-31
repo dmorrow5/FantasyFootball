@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FantasyFootball.Data.Models
 {
-    public partial class Player
+    public partial class BasePlayer
     {
         public Guid Id { get; set; }
         public Guid LeagueTeam { get; set; }
@@ -41,8 +41,8 @@ namespace FantasyFootball.Data.Models
         public int? BlockKick { get; set; }
         public int? KickoffAndPuntReturnTouchdown { get; set; }
 
-        public virtual BasePlayer IdNavigation { get; set; }
         public virtual LeagueTeam LeagueTeamNavigation { get; set; }
         public virtual SportsTeam TeamNavigation { get; set; }
+        public virtual Player Player { get; set; }
     }
 }
